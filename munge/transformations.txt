@@ -1,0 +1,8 @@
+Data Transformations
+
+1. Loaded the dataset.
+2. Filtered the required records.
+3. Grouped the data by game genre.
+4. Calculated average critic scores.
+5. Counted global sales values.
+6. Used the transformed data to create histograms and dashboard charts in Microsoft Excel.
